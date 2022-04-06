@@ -1,4 +1,4 @@
-# death_probability
+# Binary classification problem: computing the probability of death of patients
 
 In this project, we predict the probability of death of a patient that is entering an ICU (Intensive Care Unit). 
 
